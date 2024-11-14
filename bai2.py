@@ -1,4 +1,4 @@
-"""a
+"""
 2. Viết chương trình Python để thực hiện các yêu cầu sau:
  - Tạo 2 danh sách chứa giá của các loại trái cây có trong một cửa hàng, 
  yêu cầu có nhiều hơn 5 loại trái cây [20000, 9000, 15000, 10500, ...] ["chuối", "nho", "đủ đủ", "thanh long", ...]
